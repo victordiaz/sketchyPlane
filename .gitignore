@@ -1,6 +1,5 @@
 bin/aladeltaDebug.app
-bin/data/sounds/mum.mp3
+bin/data/sounds/
 build/
 .svn
-.gitignore
 
